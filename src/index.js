@@ -5,6 +5,5 @@ console.log(11)
 // console.log('in main, a.done = %j, b.done = %j', a.done, b.done);
 console.log(1)
 console.log(2)
-console.log(3)
 
 
